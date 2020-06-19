@@ -6,3 +6,5 @@ Repositório com os exercicios do [URI online judge](https://www.urionlinejudge.
 
 * [1037](iniciante/1037.py)
 * [1038](iniciante/1038-lanche.py)
+* [1040](iniciante/1040.py)
+* [1041](iniciante/1041.py)
