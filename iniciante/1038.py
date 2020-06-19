@@ -3,9 +3,8 @@
 """
 ===============================================================================
 PROBLEMA: 1038
-NÍVEL: Fácil
+NÍVEL: Iniciante
 DATA DE SUBMISSÃO: 17/06/20
-
 ===============================================================================
 Com base na tabela abaixo, escreva um programa que leia
 o código de um item e a quantidade deste item. A seguir,
